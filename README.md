@@ -3,10 +3,9 @@
 This project compares the performance of various sorting algorithms when implemented using different parallel programming paradigms: **Pthreads**, **OpenMP**, and **Serial** execution.
 
 > **Course**: Operating Systems  
-> **Section**: BSR-4C / BCS-4N  
 > **Team Members**:  
-> - K225018 Aheed Khan  
-> - K225024 Muhammad Hadi Shahid  
+> - Aheed Khan  
+> - Muhammad Hadi Shahid  
 
 ## 📘 Overview
 
